@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bba80fc9-b90e-4ca2-aeb0-cdc5f2f660db" name="Default Changelist" comment="done">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_http_9_3_0_M0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_3_0_M0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_security_9_3_0_M0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_server_9_3_0_M0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_servlet_9_3_0_M0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_3_0_M0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_webapp_9_3_0_M0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_xml_9_3_0_M0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_20.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TaskJDBC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TaskJDBC.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jm/task/core/jdbc/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jm/task/core/jdbc/dao/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jm/task/core/jdbc/dao/UserDaoHibernateImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jm/task/core/jdbc/dao/UserDaoHibernateImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jm/task/core/jdbc/service/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jm/task/core/jdbc/service/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jm/task/core/jdbc/util/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jm/task/core/jdbc/util/Util.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jm/task/core/jdbc/dao/UserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jm/task/core/jdbc/dao/UserDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jm/task/core/jdbc/dao/UserDaoHibernateImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jm/task/core/jdbc/dao/UserDaoHibernateImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jm/task/core/jdbc/service/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jm/task/core/jdbc/service/UserServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jm/task/core/jdbc/util/Util.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jm/task/core/jdbc/util/Util.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitRewordedCommitMessages">
+    <option name="onto" value="2c048dffcff1120b505d83e62c8b3672c1155f8c" />
+  </component>
+  <component name="ProjectId" id="1dbO9vyBOGKnhAxnzSeZrBZ2px8" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../web2" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jm.task.core.jdbc.Main" />
+      <module name="TaskJDBC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jm.task.core.jdbc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\idsmo\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bba80fc9-b90e-4ca2-aeb0-cdc5f2f660db" name="Default Changelist" comment="" />
+      <created>1592690177768</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592690177768</updated>
+      <workItem from="1592690197121" duration="1031000" />
+      <workItem from="1592759275818" duration="4183000" />
+      <workItem from="1592851561661" duration="11285000" />
+      <workItem from="1593038397524" duration="1979000" />
+      <workItem from="1593084222557" duration="127000" />
+      <workItem from="1594645640086" duration="966000" />
+      <workItem from="1594676231609" duration="44000" />
+      <workItem from="1594676522072" duration="276000" />
+    </task>
+    <task id="LOCAL-00001" summary="done">
+      <created>1592943767682</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592943767682</updated>
+    </task>
+    <task id="LOCAL-00002" summary="done">
+      <created>1592944469760</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1592944469760</updated>
+    </task>
+    <task id="LOCAL-00003" summary="done">
+      <created>1592944604541</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1592944604541</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="done3" />
+    <MESSAGE value="done" />
+    <option name="LAST_COMMIT_MESSAGE" value="done" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="520" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593039253250">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="519" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1854.1080@0.0.1854.1080" timestamp="1592940167324" />
+    <state x="520" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1593039253250" />
+    <state x="695" y="240" key="#com.intellij.ide.util.MemberChooser" timestamp="1592768096353">
+      <screen x="0" y="0" width="1854" height="1080" />
+    </state>
+    <state x="695" y="240" key="#com.intellij.ide.util.MemberChooser/0.0.1854.1080@0.0.1854.1080" timestamp="1592768096353" />
+    <state x="709" y="294" key="FileChooserDialogImpl" timestamp="1594676735487">
+      <screen x="0" y="0" width="1857" height="1080" />
+    </state>
+    <state x="707" y="294" key="FileChooserDialogImpl/0.0.1854.1080@0.0.1854.1080" timestamp="1592944201340" />
+    <state x="709" y="294" key="FileChooserDialogImpl/0.0.1857.1080@0.0.1857.1080" timestamp="1594676735487" />
+    <state x="709" y="294" key="FileChooserDialogImpl/0.0.1858.1080@0.0.1858.1080" timestamp="1593038726343" />
+    <state x="419" y="223" key="Git.Interactive.Rebase.Dialog" timestamp="1592944429562">
+      <screen x="0" y="0" width="1854" height="1080" />
+    </state>
+    <state x="419" y="223" key="Git.Interactive.Rebase.Dialog/0.0.1854.1080@0.0.1854.1080" timestamp="1592944429562" />
+    <state x="688" y="406" key="Github.CreatePullRequestDialog" timestamp="1592943835574">
+      <screen x="0" y="0" width="1854" height="1080" />
+    </state>
+    <state x="688" y="406" key="Github.CreatePullRequestDialog/0.0.1854.1080@0.0.1854.1080" timestamp="1592943835574" />
+    <state x="805" y="437" key="Github.ShareDialog" timestamp="1592944750906">
+      <screen x="0" y="0" width="1854" height="1080" />
+    </state>
+    <state x="805" y="437" key="Github.ShareDialog/0.0.1854.1080@0.0.1854.1080" timestamp="1592944750906" />
+    <state width="1803" height="260" key="GridCell.Tab.0.bottom" timestamp="1593039878938">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1811" height="276" key="GridCell.Tab.0.bottom/0.0.1854.1080@0.0.1854.1080" timestamp="1592945607093" />
+    <state width="1803" height="260" key="GridCell.Tab.0.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1593039878938" />
+    <state width="1803" height="260" key="GridCell.Tab.0.center" timestamp="1593039878938">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1811" height="276" key="GridCell.Tab.0.center/0.0.1854.1080@0.0.1854.1080" timestamp="1592945607092" />
+    <state width="1803" height="260" key="GridCell.Tab.0.center/0.0.1858.1080@0.0.1858.1080" timestamp="1593039878938" />
+    <state width="1803" height="260" key="GridCell.Tab.0.left" timestamp="1593039878938">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1811" height="276" key="GridCell.Tab.0.left/0.0.1854.1080@0.0.1854.1080" timestamp="1592945607092" />
+    <state width="1803" height="260" key="GridCell.Tab.0.left/0.0.1858.1080@0.0.1858.1080" timestamp="1593039878938" />
+    <state width="1803" height="260" key="GridCell.Tab.0.right" timestamp="1593039878938">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1811" height="276" key="GridCell.Tab.0.right/0.0.1854.1080@0.0.1854.1080" timestamp="1592945607093" />
+    <state width="1803" height="260" key="GridCell.Tab.0.right/0.0.1858.1080@0.0.1858.1080" timestamp="1593039878938" />
+    <state x="736" y="453" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592944456014">
+      <screen x="0" y="0" width="1854" height="1080" />
+    </state>
+    <state x="736" y="453" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1854.1080@0.0.1854.1080" timestamp="1592944456014" />
+    <state x="621" y="328" key="git4idea.merge.GitPullDialog" timestamp="1592944268472">
+      <screen x="0" y="0" width="1854" height="1080" />
+    </state>
+    <state x="621" y="328" key="git4idea.merge.GitPullDialog/0.0.1854.1080@0.0.1854.1080" timestamp="1592944268472" />
+    <state x="729" y="401" key="git4idea.rebase.GitRebaseDialog" timestamp="1592944421896">
+      <screen x="0" y="0" width="1854" height="1080" />
+    </state>
+    <state x="729" y="401" key="git4idea.rebase.GitRebaseDialog/0.0.1854.1080@0.0.1854.1080" timestamp="1592944421896" />
+    <state x="166" y="171" key="new project wizard" timestamp="1594676777154">
+      <screen x="0" y="0" width="1857" height="1080" />
+    </state>
+    <state x="166" y="171" key="new project wizard/0.0.1857.1080@0.0.1857.1080" timestamp="1594676777154" />
+    <state x="196" y="59" key="new project wizard/0.0.1858.1080@0.0.1858.1080" timestamp="1593084349662" />
+  </component>
+</project>
